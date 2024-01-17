@@ -39,7 +39,7 @@ void _push(stack_t **doubly, unsigned int cline)
 }
 
 /**
- * _pall - Prints values 
+ * _pall - Prints values
  * @doubly: linked function
  * @cline: numbers of lines
  * Return: no return

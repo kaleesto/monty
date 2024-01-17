@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * _calloc - concatenate strings 
+ * _calloc - concatenate strings
  * @nmemb: number of elems
  * @size: type of elems
  * Return: no return

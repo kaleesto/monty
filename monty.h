@@ -78,6 +78,8 @@ void _pchar(stack_t **doubly, unsigned int cline);
 void _pstr(stack_t **doubly, unsigned int cline);
 void _rotl(stack_t **doubly, unsigned int cline);
 void _rotr(stack_t **doubly, unsigned int cline);
+int dprintf(int fd, const char *format, ...);
+ssize_t getline(char **lineptr, size_t *n, FILE *stream);
 
 void (*get_opcodes(char *opc))(stack_t **stack, unsigned int line_number);
 

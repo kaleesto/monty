@@ -2,7 +2,7 @@
 
 /**
  * get_opcodes - selects the correct opcode to run
- * @opc: opcode 
+ * @opc: opcode
  * Return: pointer to the func that execs opcode
  */
 

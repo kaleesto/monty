@@ -60,7 +60,7 @@ void _add(stack_t **doubly, unsigned int cline)
 }
 
 /**
- * _nop - Void 
+ * _nop - Void
  * @doubly: func
  * @cline: function
  * Return: no return
